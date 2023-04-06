@@ -1,0 +1,19 @@
+{
+  "name": "jovian_maths",
+  "version": "1.0.0",
+  "description": "it is a module containing basic math operations",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "sum",
+    "subtract"
+  ],
+  "author": "robin",
+  "license": "MIT"
+}
